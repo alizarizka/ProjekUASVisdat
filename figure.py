@@ -99,7 +99,6 @@ def newDeathFigure(source, dropdown, dateSlider):
 
     return column(figureNewDeaths, dropdown, dateSlider)
 
-
 def newRecoveredFigure(source, dropdown, dateSlider):
 
     # list tools
